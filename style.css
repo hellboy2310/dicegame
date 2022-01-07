@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: grey;
+margin-left: 20rem;
+margin-right: 20rem;
+}
+h1{
+  color: green;
+  font-size: 8rem;
+  text-align: center;
+
+  font-family: 'Vujahday Script', cursive;
+margin-bottom: 3rem;
+}
+.player{
+    font-family: 'Vujahday Script', cursive;
+    font-size: 30px;
+    color: blue;
+    display: flex;
+
+    justify-content: space-between;
+margin-bottom: 5rem;
+
+}
+.container{
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+.img2{
+  margin-left: 27rem;
+}
